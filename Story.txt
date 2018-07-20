@@ -1,0 +1,24 @@
+=================================
+++++++++++++ Story ideas ++++++++
+=================================
+
+You wake up after the ship initially gets attacked and you get knocked out.
+
+After walking around the ship examining all of the damaged components for what seems like hours, you come to the realization that your crewmates have all been taken.
+The ship is inoperable, the only thing that is active is the autopilot which is still braving its course to the planet "Orbos-1".  Walking to the back of the ship
+you sense how somber and quiet it is without the constant beeping and crashing of metal feet on metal floors.  You enter the engine room of the first floor and 
+begin interfacing with the engines. 
+"Of course it was written in C." you mumble under your breath.
+"Give me a try, interface with it using my port and I'll do the rest." 
+You take out the cable, plug it into both your head and the engine's control systems, and then your mind goes blank.
+You wake up several minutes later, still standing in that spot.
+"Whenever I have to interface with something, it takes too much power so I have to borrow yours. Sorry if the sudden blackout seemed a bit odd." 
+You can hear the rumble of the engine again, although it is much softer than it was earlier.
+"Are the engines operational again?"
+"Not fully, some parts were too corrupted to fix.  We do have enough to get to our destination though, albeit much later."
+"At least this will give me enough time to get my bearings on this ship."
+You take a self-guided tour of the ship, getting to know the different areas and their functionality.
+
+----
+
+"We made it."
