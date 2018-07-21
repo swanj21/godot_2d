@@ -1,0 +1,82 @@
+=============================
++++++++++ Mechanics +++++++++
+=============================
+
+- Recruitment
+- Ship
+- Planets & Asteroids
+- Terminals
+- Servers
+- Missions
+- Personas
+- Shells
+- Tasks
+
+===========
+Recruitment
+===========
+
+Going out to PLANETS or ASTEROIDS for high-priority MISSIONS can give 
+  access to TERMINALS or SERVERS that hold 'PERSONAS' which you can copy 
+  to your ship server.
+Those personas can do PASSIVE TASKS that are needed for the ship or 
+  SPECIAL PERSONAS can be put into SHELLS that are on your ship.
+
+====
+Ship
+====
+
+Cockpit
+	- Navigate to different systems and planets or asteroids
+Docking bay
+	- Entrance to, exit from the ship
+Armory
+	- Outfit shells with different weapons and skills
+Engine room(bottom)
+	- Assign passive personas to upgrade, repair, or maintain the engine.
+Engine room(top)
+	- Assign passive personas to balance power consumption, reduce chance 
+	  that engines will temporarily fail on trips
+Cargo hold
+	- Manage storage space
+Crew quarters
+	- Assign or remove personas from shells, check different personas acquired
+
+===================
+Planets & Asteroids
+===================
+
+Certain quests appear for certain planets and asteroids.  You can go to 
+  certain areas on planets and asteroids for high-priority missions.
+
+=========
+Terminals
+=========
+
+Terminals appear on some high-priority missions that can be done by you.  
+They can be accessed and interfaced with to grant access to certain areas 
+  or hold personas that can be copied to your ship.
+
+=======
+Servers
+=======
+
+Servers appear on your ship and some high-priority missions that can be done.  
+They can be interfaced with to copy personas to the server on your ship or 
+  view logs that have been stored.
+
+========
+Missions
+========
+
+========
+Personas
+========
+
+======
+Shells
+======
+
+=====
+Tasks
+=====
