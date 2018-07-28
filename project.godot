@@ -14,6 +14,12 @@ config/name="2D_Robots"
 run/main_scene="res://Scenes/Tester.tscn"
 config/icon="res://icon.png"
 
+[display]
+
+window/size/resizable=false
+window/size/borderless=true
+window/handheld/emulate_touchscreen=true
+
 [input]
 
 move_left=[ Object(InputEventKey,"resource_local_to_scene":false,"resource_name":"","device":0,"alt":false,"shift":false,"control":false,"meta":false,"command":false,"pressed":false,"scancode":65,"unicode":0,"echo":false,"script":null)
@@ -25,6 +31,8 @@ move_sprint=[ Object(InputEventKey,"resource_local_to_scene":false,"resource_nam
 move_jump=[ Object(InputEventKey,"resource_local_to_scene":false,"resource_name":"","device":0,"alt":false,"shift":false,"control":false,"meta":false,"command":false,"pressed":false,"scancode":32,"unicode":0,"echo":false,"script":null)
  ]
 interact=[ Object(InputEventKey,"resource_local_to_scene":false,"resource_name":"","device":0,"alt":false,"shift":false,"control":false,"meta":false,"command":false,"pressed":false,"scancode":69,"unicode":0,"echo":false,"script":null)
+ ]
+move_hide=[ Object(InputEventKey,"resource_local_to_scene":false,"resource_name":"","device":0,"alt":false,"shift":false,"control":false,"meta":false,"command":false,"pressed":false,"scancode":83,"unicode":0,"echo":false,"script":null)
  ]
 
 [rendering]
