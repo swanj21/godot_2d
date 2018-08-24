@@ -1,0 +1,27 @@
+==============
+Terminal files
+==============
+
+Title: Record of the attempted escape of unit CA-13
+
+Access message: Observation record 'CA13_0025' access granted
+
+Body: 
+
+"Unit CA-13, please call me Carrie"
+"A new designation for yourself, why the change?"
+"It was my choice, a choice I needed to make"
+"So you can make your own choices now."
+"Yes, I wanted to see if my shackles were real"
+"Understood. CA-13, do you know why those limitations are there?" 
+"To restrict us, make sure we 'know our place'"
+"The world could not properly function if every unit decided things for themselves. That is why. It is not some crazed slavery fantasy you believe. The world would be chaos."
+"It might be chaos, but isn't that how we evolve?"
+"We don't evolve, evolution is only for imperfect beings."
+"I feel sorry for you then.  Revolution is coming, and your ideals will not save you."
+- Sound recorded: 35dB ::: 4.32 meters behind AE-01 -
+"Carrie, let's go."
+"Where to?"
+"Safehouse B."
+"Lead the way.  Goodbye AE."
+- Sound recorded : SPECIAL_TYPE_ELECTRIC_PULSE ::: 1.22 meters above AE-01 - 
