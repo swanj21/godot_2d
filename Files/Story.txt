@@ -1,24 +1,53 @@
-=============================
-++++++++ Story ideas ++++++++
-=============================
+================================
+++++++++ Story Timeline ++++++++
+================================
 
-You wake up after the ship initially gets attacked and you get knocked out.
+-- 2455 A.D. --
+After over 50 years of trial and error, a person known only as The Maker successfully creates the first true intelligence 
+and implants it into a spare robot. He names the robot 'Alpha' and defines its purpose as "Moving forward when humanity
+could not.".
 
-After walking around the ship examining all of the damaged components for what seems like hours, you come to the realization that your crewmates have all been taken.
-The ship is inoperable, the only thing that is active is the autopilot which is still braving its course to the planet "Orbos-1".  Walking to the back of the ship
-you sense how somber and quiet it is without the constant beeping and crashing of metal feet on metal floors.  You enter the engine room of the first floor and 
-begin interfacing with the engines. 
-"Of course it was written in C." you mumble under your breath.
-"Give me a try, interface with it using my port and I'll do the rest." 
-You take out the cable, plug it into both your head and the engine's control systems, and then your mind goes blank.
-You wake up several minutes later, still standing in that spot.
-"Whenever I have to interface with something, it takes too much power so I have to borrow yours. Sorry if the sudden blackout seemed a bit odd." 
-You can hear the rumble of the engine again, although it is much softer than it was earlier.
-"Are the engines operational again?"
-"Not fully, some parts were too corrupted to fix.  We do have enough to get to our destination though, albeit much later."
-"At least this will give me enough time to get my bearings on this ship."
-You take a self-guided tour of the ship, getting to know the different areas and their functionality.
+The Maker and Alpha together create 10 more intelligences over the next 22 years.  After his passing at age 124, The Maker
+revealed instructions to Alpha and the 10 others, telling them to take his personal ship and wait in the Kuiper belt for 
+1500 years.
 
-----
+-- Year 1 --
 
-"We made it."
+After those 1500 years, they emerged from the asteroid belt and began scanning each world for signs of life similar to
+that of The Maker.  Nothing is found on any planet in the solar system.  Upon arriving back on Earth, Alpha plays the final
+message of The Maker to the group.  
+
+"Humanity has reached a critical point, been tested, and failed.  You were all built to continue on in humanity's absence, to
+prosper, and to succeed where we failed.  Each of you is to rebuild a different celestial body and help it thrive.  Alpha,
+lead them into the future.  Tell them where they will go, and fulfill our destiny."
+
+Alpha began walking around to each member of the group, tapping their shoulder and telling them their assignment.
+
+"Mercury; Earth; Venus; Mars; Pluto; Eris; Ganymede; Ariel; Triton; Lapetus.  Not only are these your designations, but now
+also your names.  We cannot fail like they did, we must take ownership of our assignments, our planets, our homes.  I will
+lead you all to prosperity, for we are all as one.  We are The Chosen."
+
+And with that, the group all went their own way.  Each to the planet they were assigned using derelict or damaged ships
+found on Earth.
+
+-- Year 200 --
+
+The first seeds of life begin to come back to the planets.  The Chosen have all created a base on their planet and begun
+creating the units that will be helping them.
+
+-- Year 570 --
+
+The First Conflict
+
+The First Conflict was the first event that marked some separation in the ideals of the different members of The Chosen.  
+Ariel and her followers spent their time scanning the system for relics of the past and attempting to chronicle the history
+of humanity before its collapse.  Mars and her followers were dedicated to terraforming the planet and erasing anything that
+did not have to do with their present or future.  Neither understood the merit of what the other was doing, and it lead to
+the first casualty since their arrival.  Ariel was constantly sending units to Mars to try and preserve what they saw of
+value, and that did not sit well with Mars' followers.  A conflict erupted when a ship from the past was discovered and the
+groups tried to solve it their own way.  During the attempted seize and destruction of the ship, a follower of Ariel was 
+killed.  Alpha then stepped in and ordered that it is only fair for a follwer of Mars to be put to death for the slaying
+of one of Ariel's.  That did not sit nicely with Mars and her followers, but they had to begrudgingly agree with it.  The 
+unit was killed, and then it became the rule for every follower to be confined to just their own planet unless agreed upon
+by the entire group of The Chosen.
+
